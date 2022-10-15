@@ -37,7 +37,7 @@ import (
 	"golang.org/x/crypto/sha3"
 )
 
-// Ethash proof-of-work protocol constants.
+// ONEonONE proof-of-work protocol constants.
 var (
 	FrontierBlockReward           = big.NewInt(5e+18) // Block reward in wei for successfully mining a block
 	ByzantiumBlockReward          = big.NewInt(3e+18) // Block reward in wei for successfully mining a block upward from Byzantium
