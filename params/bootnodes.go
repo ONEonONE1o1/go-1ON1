@@ -23,7 +23,7 @@ import "github.com/ethereum/go-ethereum/common"
 var MainnetBootnodes = []string{
 	// ONEonONE Protocol Bootnodes	
 	"enode://f7b3997dcbc6a38a74108b85bdf35721ed3f695d4ca88f3efcf0780650e29cb09ec127f7aa4180bbb85b00a449998f49d3c53e59cc2496fa8f5581c878c4211f@194.163.130.191:20220",  // ONEonONE Protocol Main Bootnode 
-	"enode://800abc439eef3cfafb1da082209c24e865986de2de03a67df5f3e8f2944512e30983bc62f2ffb385603ff64a5aba936b7dd14409ad811d5214eada240b39ad98@81.166.104.132:20220",  // ONEonONE Protocol Bootnode 2
+	"enode://8b52c311ed722c70eb63423d793ba7178277b1533710c75bc5c3728094a7b2afbff4eb37c8ecfe38f2c6325a972360bf73f263781554548962f2e4b39c4a5d1e@81.166.104.132:20220",  // ONEonONE Protocol Bootnode 2
 	"enode://3dd441234fb5f64966fd391348cc979f4b81c607ad9133926895e5c101dba4facadc55a006f896f99b69830794ca63d0f66f5a9eaf762fe1b67a11fdd4a04f34@81.166.104.132:20220",  // ONEonONE Protocol TestNode
 }
 
