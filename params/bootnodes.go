@@ -19,7 +19,7 @@ package params
 import "github.com/ethereum/go-ethereum/common"
 
 // MainnetBootnodes are the enode URLs of the P2P bootstrap nodes running on
-// the main Ethereum network.
+// the main ONEonONE network.
 var MainnetBootnodes = []string{
 	// ONEonONE Protocol Bootnodes	
 	"enode://f7b3997dcbc6a38a74108b85bdf35721ed3f695d4ca88f3efcf0780650e29cb09ec127f7aa4180bbb85b00a449998f49d3c53e59cc2496fa8f5581c878c4211f@194.163.130.191:20220",  // ONEonONE Protocol Main Bootnode 

@@ -26,7 +26,7 @@ import (
 	"github.com/ethereum/go-ethereum/params"
 )
 
-// MainnetGenesis returns the JSON spec to use for the main Ethereum network. It
+// MainnetGenesis returns the JSON spec to use for the main ONEonONE network. It
 // is actually empty since that defaults to the hard coded binary genesis block.
 func MainnetGenesis() string {
 	return ""
